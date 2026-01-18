@@ -1,0 +1,15 @@
+{
+    "results_found": "Résultats trouvés :",
+    "choose_number": "Choisis un numéro : ",
+    "invalid_choice": "Choix invalide.",
+    "unknown_error": "--- Erreur inconnue : {error} ---",
+
+    "step_update_full": "--- Étape 1 : Mise à jour complète des dépôts (pacman -Syu) ---",
+    "step_update_finish": "--- Étape 2 : Finalisation de la mise à jour (pacman -Su) ---",
+
+    "ask_library": "Nom de la librairie à rechercher : ",
+    "no_results": "Aucun résultat trouvé.",
+
+    "installing": "--- Étape 4 : Installation de {package} ---",
+    "package_not_found": "Impossible de trouver le nom spécifique mingw64."
+}

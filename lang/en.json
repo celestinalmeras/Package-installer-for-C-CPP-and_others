@@ -1,0 +1,15 @@
+{
+    "results_found": "Results found:",
+    "choose_number": "Choose a number: ",
+    "invalid_choice": "Invalid choice.",
+    "unknown_error": "--- Unknown error: {error} ---",
+
+    "step_update_full": "--- Step 1: Full repository update (pacman -Syu) ---",
+    "step_update_finish": "--- Step 2: Finalizing update (pacman -Su) ---",
+
+    "ask_library": "Library name to search: ",
+    "no_results": "No results found.",
+
+    "installing": "--- Step 4: Installing {package} ---",
+    "package_not_found": "Unable to find mingw64-specific package name."
+}
