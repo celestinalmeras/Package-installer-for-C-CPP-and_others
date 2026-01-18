@@ -1,0 +1,64 @@
+LICENCE PROPRIÉTAIRE – USAGE PERSONNEL UNIQUEMENT
+
+Package installer for C, C++,... (https://github.com/celestinalmeras/Package-installer-for-C-C-...-)
+
+Copyright (c) 2026, celestinalmeras. Tous droits réservés.
+
+1. Objet
+Le présent logiciel (ci-après « le Logiciel »), ainsi que toute documentation associée,
+est fourni sous licence propriétaire et appartient exclusivement à celestinalmeras.
+
+2. Autorisation d’utilisation
+L’utilisateur est autorisé à utiliser le Logiciel uniquement à des fins personnelles,
+non commerciales et non professionnelles.
+
+3. Interdictions
+Sont strictement interdits, sans autorisation écrite préalable de l’auteur :
+- toute utilisation commerciale, directe ou indirecte,
+- toute modification, adaptation ou création d’œuvres dérivées (sauf exceptions prévues ci-dessous),
+- toute décompilation, rétro-ingénierie (reverse engineering) ou extraction du code,
+- toute distribution, reproduction, mise à disposition ou diffusion du Logiciel,
+  sous quelque forme que ce soit, sauf accord explicite de l’auteur.
+
+4. Exceptions autorisées
+Les actions suivantes sont autorisées **uniquement à des fins personnelles** :
+- la traduction du Logiciel (interface, documentation, messages),
+- le portage du Logiciel vers d’autres systèmes d’exploitation,
+  à condition que :
+  - le Logiciel porté reste **non commercial**,
+  - aucune modification du comportement ou des fonctionnalités n’est effectuée,
+  - le fichier de licence original soit inclus,
+  - un lien vers le dépôt GitHub original soit présent :
+    https://github.com/celestinalmeras/Package-installer-for-C-C-...-
+  - l’auteur soit mentionné : « celestinalmeras ».
+
+5. Distribution autorisée (sous conditions)
+La distribution du Logiciel (ou de ses ports/traductions) est strictement interdite
+sans l’autorisation écrite de l’auteur. Dans le cas où l’auteur autorise la distribution,
+l’utilisateur doit :
+- conserver intégralement ce fichier de licence,
+- inclure un lien vers le dépôt GitHub original :
+  https://github.com/celestinalmeras/Package-installer-for-C-C-...-
+- mentionner l’auteur : « celestinalmeras ».
+
+6. Propriété intellectuelle
+L’ensemble des droits de propriété intellectuelle afférents au Logiciel,
+au code source, aux exécutables, aux fichiers de configuration et aux assets,
+reste la propriété exclusive de l’auteur.
+
+7. Absence de garantie
+Le Logiciel est fourni « tel quel », sans aucune garantie expresse ou implicite,
+y compris, mais sans s’y limiter, les garanties de qualité marchande,
+d’adéquation à un usage particulier ou d’absence de contrefaçon.
+
+8. Limitation de responsabilité
+En aucun cas l’auteur ne pourra être tenu responsable de tout dommage direct,
+indirect, accessoire, spécial ou consécutif résultant de l’utilisation
+ou de l’impossibilité d’utiliser le Logiciel.
+
+9. Durée
+Cette licence est valable pour toute la durée de protection légale du droit d’auteur.
+
+10. Contact
+Pour toute demande d’autorisation, contactez l’auteur via GitHub :
+https://github.com/celestinalmeras
